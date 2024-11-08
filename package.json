@@ -1,0 +1,30 @@
+{
+  "name": "lab-assignment-3",
+  "version": "1.0.0",
+  "description": "JavaScript frameworks assignment using Express, Nodemon, and CRUD operations",
+  "main": "MainFolder/File1.js",
+
+  "scripts": {
+
+    "start-file1": "node MainFolder/File1.js",
+    "dev-file1": "nodemon MainFolder/File1.js",
+    
+    "start-file2": "node MainFolder/File2.js",
+    "dev-file2": "nodemon MainFolder/File2.js",
+    
+    "start-file3": "node MainFolder/File3.js",
+    "dev-file3": "nodemon MainFolder/File3.js",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "keywords": ["express", "nodemon", "CRUD", "assignment"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

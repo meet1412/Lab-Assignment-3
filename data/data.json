@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "color": "Blue",
+    "price": 24000
+  },
+  {
+    "id": 2,
+    "make": "Mazda",
+    "model": "Mazda 3",
+    "year": 2021,
+    "color": "Black",
+    "price": 15000
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2021,
+    "color": "Black",
+    "price": 30000
+  },
+  {
+    "id": 4,
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "color": "White",
+    "price": 21000
+  },
+  {
+    "id": 5,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2022,
+    "color": "Gray",
+    "price": 25000
+  },
+  {
+    "id": 6,
+    "make": "Ford",
+    "model": "Mazda",
+    "year": 2021,
+    "color": "Black",
+    "price": 30000
+  }
+]
